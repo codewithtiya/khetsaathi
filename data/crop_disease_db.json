@@ -1,0 +1,52 @@
+{
+  "wheat": [
+    {
+      "symptom_keywords": ["yellow stripes", "yellow rust", "orange powder", "leaf stripes"],
+      "disease": "Yellow Rust (Puccinia striiformis)",
+      "severity": "high",
+      "advice": "Spray Propiconazole 25% EC @ 1ml/litre water immediately. Remove and destroy infected leaves. Avoid excess nitrogen fertilizer. Repeat spray after 15 days if symptoms persist.",
+      "advice_hi": "Propiconazole 25% EC ka 1ml/litre pani mein turant chidkav karein. Sankramit pattiyon ko hata kar nasht karein. Zyada nitrogen khaad se bachein. 15 din baad zaroorat pade to dobara chidkav karein."
+    },
+    {
+      "symptom_keywords": ["black spots", "loose smut", "black powder ears"],
+      "disease": "Loose Smut (Ustilago tritici)",
+      "severity": "medium",
+      "advice": "Treat seeds with Carboxin or Tebuconazole before next sowing. Remove infected ears before they release spores. No cure once visible; focus on prevention next season.",
+      "advice_hi": "Agli buwai se pehle beejon ko Carboxin ya Tebuconazole se upchar karein. Beejaanu failne se pehle sankramit balियों ko hata dein."
+    }
+  ],
+  "tomato": [
+    {
+      "symptom_keywords": ["curling leaves", "yellowing", "stunted growth", "leaf curl"],
+      "disease": "Tomato Leaf Curl Virus (transmitted by whitefly)",
+      "severity": "high",
+      "advice": "Control whitefly population using yellow sticky traps and Imidacloprid spray. Remove and burn infected plants to stop spread. Use virus-resistant varieties next season.",
+      "advice_hi": "Yellow sticky traps aur Imidacloprid chidkav se safed makkhi ko niyantrit karein. Sankramit paudhon ko hata kar jala dein."
+    },
+    {
+      "symptom_keywords": ["brown spots", "black spots on leaves", "blight", "wilting"],
+      "disease": "Early Blight (Alternaria solani)",
+      "severity": "medium",
+      "advice": "Apply Mancozeb 75% WP @ 2g/litre water every 7-10 days. Ensure proper spacing for air circulation. Avoid overhead irrigation.",
+      "advice_hi": "Mancozeb 75% WP ka 2g/litre pani mein har 7-10 din mein chidkav karein. Paudhon ke beech uchit doori rakhein."
+    }
+  ],
+  "cotton": [
+    {
+      "symptom_keywords": ["pink bollworm", "holes in boll", "boll damage"],
+      "disease": "Pink Bollworm Infestation",
+      "severity": "high",
+      "advice": "Install pheromone traps (5/acre) for monitoring. Spray Profenofos 50% EC if infestation exceeds threshold. Destroy crop residue after harvest to break the pest cycle.",
+      "advice_hi": "Pheromone traps (5/acre) lagayein. Sankraman zyada hone par Profenofos 50% EC chidkav karein. Fasal katai ke baad avshesh nasht karein."
+    }
+  ],
+  "rice": [
+    {
+      "symptom_keywords": ["brown spots on leaves", "leaf blast", "diamond shaped lesions"],
+      "disease": "Rice Blast (Magnaporthe oryzae)",
+      "severity": "high",
+      "advice": "Spray Tricyclazole 75% WP @ 0.6g/litre at first sign. Maintain balanced nitrogen application - avoid excess. Ensure good field drainage.",
+      "advice_hi": "Pehle lakshan dikhte hi Tricyclazole 75% WP @ 0.6g/litre chidkav karein. Nitrogen ka santulit upyog karein."
+    }
+  ]
+}

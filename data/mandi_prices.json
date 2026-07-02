@@ -1,0 +1,20 @@
+{
+  "wheat": {
+    "Agra": {"min": 2150, "max": 2280, "modal": 2210, "unit": "per quintal", "trend": "rising"},
+    "Kanpur": {"min": 2100, "max": 2250, "modal": 2180, "unit": "per quintal", "trend": "stable"},
+    "Lucknow": {"min": 2180, "max": 2300, "modal": 2240, "unit": "per quintal", "trend": "rising"}
+  },
+  "tomato": {
+    "Agra": {"min": 1200, "max": 1800, "modal": 1500, "unit": "per quintal", "trend": "volatile"},
+    "Kanpur": {"min": 1000, "max": 1600, "modal": 1300, "unit": "per quintal", "trend": "falling"},
+    "Lucknow": {"min": 1300, "max": 1900, "modal": 1600, "unit": "per quintal", "trend": "rising"}
+  },
+  "cotton": {
+    "Agra": {"min": 6800, "max": 7200, "modal": 7000, "unit": "per quintal", "trend": "stable"},
+    "Nagpur": {"min": 7000, "max": 7400, "modal": 7200, "unit": "per quintal", "trend": "rising"}
+  },
+  "rice": {
+    "Agra": {"min": 1900, "max": 2100, "modal": 2000, "unit": "per quintal", "trend": "stable"},
+    "Lucknow": {"min": 1950, "max": 2150, "modal": 2050, "unit": "per quintal", "trend": "rising"}
+  }
+}
